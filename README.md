@@ -23,7 +23,7 @@ Here are the technologies and languages I'm proficient in:
 I'm eagerly seeking opportunities to collaborate on diverse projects that not only tap into my existing skill set but also push me to explore new territories. Whether it's crafting seamless frontend experiences, architecting robust backend solutions, or venturing into uncharted technological domains, count me in! I thrive on challenges that fuel my growth and enable me to make meaningful contributions.
 
 ## 📫 Get in Touch
-Have an exciting project or just want to connect? Feel free to reach out to me on GitHub or drop me a line via email at [zyanez@gmail.com](mailto:zyanez@gmail.com).
+Have an exciting project or just want to connect? Feel free to reach out to me on GitHub or drop me a line via email at [zabdielyanez@gmail.com](mailto:zabdielyanez@gmail.com).
 
 ## ⚡ Fun Fact
  I've been captivated by the world of artificial intelligence and its integration into web development. Exploring the intersection of AI and technology not only fascinates me but also inspires me to innovate and push the boundaries of what's possible in the digital realm.
